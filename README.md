@@ -30,4 +30,4 @@ IoT • Embedded Systems • Sensor Interfacing • Circuit Design • Cisco Pac
 - B.Tech ECE, CTAE MPUAT Udaipur (2021-2025)
 
 ## 📫 Reach me
-[LinkedIn](https://www.linkedin.com/in/dev-joshi-d05) • dev.j2028@iimbg.ac.in
+[LinkedIn](https://www.linkedin.com/in/dev-joshi-d05) • dev.joshi2003@gmail.com • dev.j2028@iimbg.ac.in
